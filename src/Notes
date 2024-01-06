@@ -2,3 +2,12 @@
 1. Create a repo ---> get init
 2. to check the status of the repo ----> git status
 3. the snapshot is added to the staging area --> git add .
+4. git commit -m "message" --->
+5. how can i see the commits in the repo? --- >
+(HEAD -> master) that is focusing on the  intellij) this commit is right now in the intellij
+1 repository for 1 project
+git remote add origin URL > we are taking it from github.com
+confirm that the connection has been established ---> git remote -v
+
+
+For the update intellij to github
